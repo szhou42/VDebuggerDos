@@ -2,4 +2,4 @@
 
 A GDB-Like C/C++ Debugger that implements most debugger functionality like stepping, breakpoints, tracking variables, printing stack trace, and etc.
 
-![alt tag](http://s14.postimg.org/ymipmkbvz/psb.png)
+![stack Overflow](http://lmsotfy.com/so.png)
