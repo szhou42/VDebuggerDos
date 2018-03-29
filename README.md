@@ -6,4 +6,4 @@
 
 <a href = "https://www.youtube.com/watch?v=RpHroTVWUx4"> Click me to see the video demo! </a>  
 
-![Alt text](screenshots/ss1.png?raw=true "ss1")
+![Alt text](screenshots/ss.png?raw=true "ss")
